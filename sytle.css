@@ -1,0 +1,26 @@
+
+body{
+    background-color:aqua;
+}
+h2:hover{
+    color: rgb(42, 165, 104);
+}
+table:hover{
+    color: blue;
+}
+
+#mmmh:hover{
+    color: rgb(55, 0, 255);
+}
+.aclass:hover{
+    color: rgb(150, 9, 9);
+}
+li:first-child{
+    color: blue;
+}
+li:last-child{
+    color: brown;
+}
+li:only-child{
+    color: rgb(43, 226, 141);
+}
